@@ -1,0 +1,18 @@
+{
+  "FlowscanSettings": {
+    "ApiKey": "ca1ed0771adc4f880e90284bfd9f106c019a5352",
+    "ApiBaseUrl": "https://query.flowgraph.co/",
+    "BlockchainDescriptor": {
+      "ChainId": 111121,
+      "ChainName": "Flow",
+      "BlockchainName": "Flow",
+      "BlockchainSlug": "flow",
+      "BlockExplorerUrls": [
+        "https://flowscan.org/"
+      ],
+      "RPCUrls": null,
+      "IsEVMCompatible": false,
+      "SBTContractAddresses": null
+    }
+  }
+}

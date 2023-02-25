@@ -1,0 +1,17 @@
+{
+  "CcdscanSettings": {
+    "ApiBaseUrl": "https://api-ccdscan.mainnet.concordium.software/graphql/",
+    "BlockchainDescriptor": {
+      "ChainId": 111122,
+      "ChainName": "Concordium",
+      "BlockchainName": "Concordium",
+      "BlockchainSlug": "concordium",
+      "BlockExplorerUrls": [
+        "https://ccdscan.io/"
+      ],
+      "RPCUrls": null,
+      "IsEVMCompatible": false,
+      "SBTContractAddresses": null
+    }
+  }
+}

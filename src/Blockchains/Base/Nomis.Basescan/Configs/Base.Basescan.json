@@ -1,0 +1,19 @@
+{
+  "BasescanSettings": {
+    "ApiBaseUrl": "https://api-goerli.basescan.org/",
+    "BlockchainDescriptor": {
+      "ChainId": 84531,
+      "ChainName": "Base Goerli",
+      "BlockchainName": "Base Goerli",
+      "BlockchainSlug": "base-goerli",
+      "BlockExplorerUrls": [
+        "https://goerli.basescan.org"
+      ],
+      "RPCUrls": [
+        "https://goerli.base.org"
+      ],
+      "IsEVMCompatible": true,
+      "SBTContractAddresses": null
+    }
+  }
+}
